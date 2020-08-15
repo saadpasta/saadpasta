@@ -1,13 +1,1 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on ... React Native 
-- 🌱 I’m currently learning ... Data Strucuture and Algorithms 
-- 👯 I’m looking to collaborate on ... any open source project hh
-- 🤔 I’m looking for help with ... solving Leet Code problems 
-- 💬 Ask me about ... JS , ReactJs and Open Source 
-- 📫 How to reach me: ... saadpasta70@gmail.com
-- ⚡ Fun fact: ... I am 18 
-jjjjjgfjgfjgf
-hgfhgdasdsaadasdsadasadsadkjkhjk
-fsafsafsfsfsafsftdgf
-123
+<img src="https://raw.githubusercontent.com/saadpasta/saadpasta/master/Banner%20%20(1).png?token=AFR2MI7PXWJTBJNE6GSR7IK7G6PCG"/>
