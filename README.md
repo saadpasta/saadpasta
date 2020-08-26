@@ -11,4 +11,3 @@
     :briefcase: LinkedIn: https://linkedin.com/in/saadpasta <br>
   </samp>
 </p>
-[![Saad's github stats](https://github-readme-stats.vercel.app/api?username=saadpasta)](https://github.com/anuraghazra/github-readme-stats)
