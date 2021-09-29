@@ -9,7 +9,7 @@
     :email:	saadpasta70@gmail.com <br>
     :art: Portfolio: https://saadpasta.github.io <br>
     :briefcase: LinkedIn: https://linkedin.com/in/saadpasta <br>
-                Twitter: https://twitter.com/saadpastadev?lang=en
+    :dove: Twitter: https://twitter.com/saadpastadev?lang=en
   </samp>
 </p>
 
