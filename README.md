@@ -7,8 +7,9 @@
     :sparkles: Favorite Tech: JavaScript, React, Typescript, Python ... <br>
     :email:	saadpasta70@gmail.com <br>
     :art: Portfolio: https://saadpasta.github.io <br>
-    :briefcase: LinkedIn: https://linkedin.com/in/saadpasta <br>
-                Twitter: https://twitter.com/saadpastadev?lang=en
+                Twitter: https://twitter.com/saadpastadev?lang=en<br>
+  :briefcase: Building https://www.refactornow.dev/ - Learn the Art of Refactoring <br>
+
   </samp>
 </p>
 
